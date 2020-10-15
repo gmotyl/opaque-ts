@@ -1,5 +1,5 @@
-# Step 1
+# Step 2 : solution
 
 Notice that calculateOrbit accepts only kilometers now! Yay! :)
 
-This repository contains code kata in TypeScript. Switch to branch kata/step3 and follow instructions in README.md
+Switch to branch kata/step3 and follow instructions in README.md
