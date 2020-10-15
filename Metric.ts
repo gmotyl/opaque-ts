@@ -1,3 +1,4 @@
+// Hint : this type has been allready modified a bit but it's not opaque just yet - something is missing
 export type Kilometer = {
   _: "Kilometer";
   value: number;

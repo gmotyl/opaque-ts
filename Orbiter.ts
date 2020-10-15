@@ -8,7 +8,7 @@ let kilometers = numberToKilometer(1609.344); // 1000 miles =1609.344 kilometers
 let iCanHackYou = {
   _: "Kilometer",
   value: -300,
-} as Kilometer;
+} as Kilometer; // HAHA I can hack you !! ( ͡° ͜ʖ ͡°)
 
 calculateOrbit(kilometers); // OK
 calculateOrbit(iCanHackYou); // iCanHackYou TS error in l.8 expected
