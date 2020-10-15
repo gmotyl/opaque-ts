@@ -1,5 +1,8 @@
-# opaque-ts
+# Step 1
 
-Opaque type in TS exercise
+TODO:
 
-This repository contains code kata in TypeScript. Switch to branch kata/step1 and follow instructions in README.md.
+- Define Kilometer type in Metric.ts
+- Define Mile type in Imperial.ts
+
+This repository contains code kata in TypeScript. Solution compare your solution with solution/step1 and follow instructions in README.md
