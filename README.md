@@ -1,8 +1,5 @@
 # Step 1
 
-TODO:
+Notice that calculateOrbit accepts only kilometers now! Yay! :)
 
-- Define Kilometer type in Metric.ts
-- Define Mile type in Imperial.ts
-
-This repository contains code kata in TypeScript. Solution compare your solution with solution/step1 and follow instructions in README.md
+This repository contains code kata in TypeScript. Switch to branch kata/step3 and follow instructions in README.md
