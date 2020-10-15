@@ -1,8 +1,5 @@
-# Step 1
+# Step 1 - Solution
 
-TODO:
+Notice that TS in Orbiter don't show an error when whe pass a Mile to calculateOrbit.... do we ?
 
-- Define Kilometer type in Metric.ts
-- Define Mile type in Imperial.ts
-
-This repository contains code kata in TypeScript. Solution compare your solution with solution/step1 and follow instructions in README.md
+This repository contains code kata in TypeScript. Switch to kata/step2 and follow instructions in README.md
