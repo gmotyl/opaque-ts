@@ -1,5 +1,7 @@
-# Step 1 - Solution
+# Step 2 - Kata
 
-Notice that TS in Orbiter don't show an error when whe pass a Mile to calculateOrbit.... do we ?
+TODO:
 
-This repository contains code kata in TypeScript. Switch to kata/step2 and follow instructions in README.md
+- calculateOrbit accepts ONLY Kilometer param (Kilometer and Mile types are _opaque_)
+
+This repository contains code kata in TypeScript. Compare your solution with solution/step2 and follow instructions in README.md
