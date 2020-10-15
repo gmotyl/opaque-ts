@@ -1,2 +1,2 @@
-// TODO: define Mile type
+export type Mile = number;
 export const numberToMile = (n: number): Mile => n;

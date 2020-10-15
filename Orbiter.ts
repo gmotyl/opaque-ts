@@ -4,4 +4,4 @@ import { calculateOrbit } from "./Navigator";
 
 let miles = numberToMile(800099223444881);
 
-calculateOrbit(m);
+calculateOrbit(miles);
