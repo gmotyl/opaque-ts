@@ -2,6 +2,6 @@
 
 TODO:
 
-- calculateOrbit accepts ONLY Kilometer param (Kilometer and Mile types are _opaque_)
+- calculateOrbit accepts ONLY Kilometer param
 
-This repository contains code kata in TypeScript. Compare your solution with solution/step2 and follow instructions in README.md
+Compare your solution with solution/step2 branch and follow instructions in README.md
