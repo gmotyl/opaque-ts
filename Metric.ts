@@ -1,3 +1,4 @@
-// hint: use shape: Opaque<'Kilometers', number>
-export type Kilometer = number & { _: "Kilometer" };
+import { Opaque } from "./Opaque";
+
+export type Kilometer = Opaque<"Kilometer", number>;
 export const numberToKilometer = (n: number): Kilometer => n as Kilometer;

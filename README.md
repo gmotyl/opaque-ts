@@ -1,8 +1,5 @@
-# Step 3 - KATA
+# Step 3 - Solution
 
-TODO:
+That's it.
 
-- implement generic Opaque type in Opaque.ts
-- use generic Opaque type in Metric and Imperial
-
-Compare your solution with solution/step3 branch.
+Thank you.

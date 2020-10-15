@@ -1,1 +1,1 @@
-// TODO: implement generic Opaque type
+export type Opaque<K, T> = T & { __TYPE__: K };
